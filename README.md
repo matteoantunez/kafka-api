@@ -1,4 +1,4 @@
-# kafka-api
+# Kafka API
 
 Example Kafka Producer and Consumer apps.
 
