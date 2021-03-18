@@ -59,6 +59,9 @@ java -cp target/kafka-api-1.0-SNAPSHOT-jar-with-dependencies.jar com.spnotes.kaf
 1. Type some messages for the Producer.
 1. Verify the messages are output by the Consumer.
 
+## Example Screenshot (Matteo Antunez)
+![](kafkaScreenshot.png)
+
 ## See also
 
 <http://cloudurable.com/blog/kafka-tutorial-kafka-producer/index.html>
